@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hey, I'm Owen Guo
 
+I'm a Computer Science student at The University of Waterloo, and I believe in the leverage of the technology to democratise access to opportunity, enact social changes, and generally improve the quality of life of everyone across the globe 🌎
+
+Here's some more about me:
+- Backend SWE Intern @LevantaLabs 💜
+- Incoming (Fall 2025) SWE Intern @Shopify 💼
+- Training for a half-marathon 🏃
+- Exploring systems design and infrastructure 🛠️
+- Looking for Summer 2026 internships ☀️
+
+I am always happy to chat about the latest tech, startups, travelling, sports, or literally anything — feel free to reach out at o3guo@uwaterloo.ca :)
 <!--
 **owenguoo/owenguoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
