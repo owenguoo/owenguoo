@@ -3,8 +3,8 @@
 I'm a Computer Science student at The University of Waterloo, and I believe in the leverage of the technology to democratise access to opportunity, enact social changes, and generally improve the quality of life of everyone across the globe 🌎
 
 Here's some more about me:
-- Backend SWE Intern @LevantaLabs 💜
-- Incoming (Fall 2025) SWE Intern @Shopify 💼
+- SWE Intern @Shopify 💼
+- Former Backend SWE Intern @LevantaLabs 💜
 - Training for a half-marathon 🏃
 - Exploring systems design and infrastructure 🛠️
 - Looking for Summer 2026 internships ☀️
