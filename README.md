@@ -3,7 +3,7 @@
 I'm a Computer Science student at The University of Waterloo, and I believe in the leverage of the technology to democratise access to opportunity, enact social changes, and generally improve the quality of life of everyone across the globe 🌎
 
 Here's some more about me:
-- Incoming MTS @SafetyKit
+- MTS @SafetyKit
 - Former SWE Intern @Shopify 💼
 - Former Backend SWE Intern @LevantaLabs 💜
 
