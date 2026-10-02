@@ -1,7 +1,7 @@
 ## Hey, I'm Owen Guo
 
-I'm a CS student at UWaterloo, and prev at SafetyKit (YC S23), Shopify, Levanta Labs.
-I believe in the power of tech to make the world a better place, and I'm working towards that goal. 
+I'm a CS student at UWaterloo, and have previously interned at at SafetyKit (YC S23), Shopify, Levanta Labs.  
+I believe in the power of tech to make the world a better place, and I'm working towards that goal.  
 I am always happy to chat about the latest tech, startups, travelling, sports, or literally anything — feel free to reach out at o3guo@uwaterloo.ca :)
 <!--
 **owenguoo/owenguoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
